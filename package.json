@@ -1,0 +1,18 @@
+{
+  "name": "practica-express-node",
+  "version": "0.0.1",
+  "description": "practivas del curso de backend de freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon /index.js"
+  },
+  "author": "Alejandro Rojas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
